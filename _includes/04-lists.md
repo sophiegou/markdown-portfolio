@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* skiing
+* reading
+* watching TV
+
+1. skateboarding
+2. listening to music
